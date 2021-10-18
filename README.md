@@ -28,7 +28,6 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 [Install Postgres](https://www.postgresql.org/download/)  
 [Postgres Docs](https://www.postgresql.org/docs/)  
 [Postgres Basics](https://devcenter.heroku.com/categories/postgres-basics)  
-[Heroku + Postgres](https://devcenter.heroku.com/articles/heroku-postgresql)  
 
 1. Install Postgres if it is not already installed on your machine. Follow the link above.  
 2. Start up the default Postgres server and database (the default should be named just 'postgres')  
@@ -52,6 +51,7 @@ Note: All references to the previous 'Hello World' section have been removed fro
 [Getting Started With Python](https://devcenter.heroku.com/articles/getting-started-with-python)
 [Heroku Working With Django](https://devcenter.heroku.com/categories/working-with-django)   
 [Deploying with Git](https://devcenter.heroku.com/articles/git) 
+[Heroku + Postgres](https://devcenter.heroku.com/articles/heroku-postgresql)  
 
 Coming soon in the next session we will explore using Heroku. You are encouraged to skip ahead and learn on your own!  
 
