@@ -8,7 +8,11 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 ## Git + Environment Setup
 ### Git  
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )  
-[Installing Git On You Machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+[Installing Git On You Machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  
+[Git How To](https://githowto.com/)  
+[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)  
+[Github Guides](https://guides.github.com/)  
+
 
 1. The first step is to install Git. If Git is already installed on your machine, sign up for your own account on Github.com. 
 2. Fork this repository into your own account. 
