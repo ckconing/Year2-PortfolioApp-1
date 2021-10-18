@@ -1,5 +1,15 @@
 # Portfolio App Tutorial with Django
-First session of Star Coders Year 2: Portfolio App with Django
+DTCC Star Coders Year 2: Portfolio App with Django
 
-Portfolio tutorial modified from https://realpython.com/get-started-with-django-1/ by Jasmine Fisher.
+This project is modified from this [RealPython tutorial](https://realpython.com/get-started-with-django-1/) by Jasmine Fisher.
+
+## Additional helpful resources:
+
+### Git  
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )
+
+
+### Django  
+[Django Docs](https://docs.djangoproject.com/en/3.2/)  
+[Django Model Field References](https://docs.djangoproject.com/en/2.1/ref/models/fields/)
 
