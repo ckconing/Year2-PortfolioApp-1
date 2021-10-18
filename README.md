@@ -6,8 +6,12 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 ## Additional helpful resources:
 
 ### Git  
-[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )  
+[Installing Git On You Machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+### IDE
+[Visual Studio Code](https://code.visualstudio.com/download)  
+[PyCharm](https://www.jetbrains.com/help/pycharm/installation-guide.html#toolbox)  
 
 ### Django  
 [Django Docs](https://docs.djangoproject.com/en/3.2/)  
@@ -23,3 +27,4 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 [Postgres Docs](https://www.postgresql.org/docs/)  
 [Postgres Basics](https://devcenter.heroku.com/categories/postgres-basics)  
 [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql)  
+
