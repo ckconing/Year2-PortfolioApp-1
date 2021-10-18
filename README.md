@@ -14,6 +14,9 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 2. Fork this repository into your own account. 
 3. Clone the repo onto your local machine.
 
+On your own time, explore open source repositories on Github! There are many ongoing projects that need help. Forking repositories, fixing small issues, and sending over your fixes with pull requests is a great way to gain experience and reputation in Github. There are also a lot of beginner oriented projects to help you get started.  
+Check out the [First Contributions](https://github.com/firstcontributions/first-contributions) project.  
+
 
 ### IDE
 [Visual Studio Code](https://code.visualstudio.com/download)  
