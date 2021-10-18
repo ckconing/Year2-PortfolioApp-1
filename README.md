@@ -7,7 +7,7 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 
 ### Git  
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )
-
+[Installing Git On You Machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Django  
 [Django Docs](https://docs.djangoproject.com/en/3.2/)  
