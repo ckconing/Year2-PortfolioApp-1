@@ -24,6 +24,7 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 [Deploying with Git](https://devcenter.heroku.com/articles/git) 
 
 ### Postgres  
+[Install Postgres](https://www.postgresql.org/download/)  
 [Postgres Docs](https://www.postgresql.org/docs/)  
 [Postgres Basics](https://devcenter.heroku.com/categories/postgres-basics)  
 [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql)  
