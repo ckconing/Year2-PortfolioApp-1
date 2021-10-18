@@ -46,7 +46,7 @@ Make sure you have python 3.x installed. You can verify the version by the follo
 2. Install postgress support through Pip: `python3 -m pip install psycopg2`
 You can use these pip commands to install other packages and dependencies as needed.  
 
-## Portfolio Tutorial: Add the Projects application to your Django project
+## Portfolio Web Application: Add the Projects application to your Django project
 Work through the tutorial [here](https://realpython.com/get-started-with-django-1/#showcase-your-projects), completing the **Showcase Your Projects** section.  
 Note: All references to the previous 'Hello World' section have been removed from our starter code. 
 
