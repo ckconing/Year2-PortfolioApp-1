@@ -22,7 +22,7 @@ You can find out which python version you have installed (and IF it is installed
 
 1. The first step is to install Git. If Git is already installed on your machine, sign up for your own account on Github.com. 
 2. Fork this repository into your own account. 
-3. Clone the repo onto your local machine.
+3. Clone the *new forked repo* onto your local machine.
 
 On your own time, explore open source repositories on Github! There are many ongoing projects that need help. Forking repositories, fixing small issues, and sending over your fixes with pull requests is a great way to gain experience and reputation in Github. There are also a lot of beginner oriented projects to help you get started.  
 Check out the [First Contributions](https://github.com/firstcontributions/first-contributions) project.  
