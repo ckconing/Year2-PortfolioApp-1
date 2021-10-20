@@ -10,7 +10,7 @@ This project is taken from this [RealPython tutorial](https://realpython.com/get
 ### Python
 [Install Python 3](https://www.python.org/downloads/)   
 Make sure you have Python version 3.4 at a minimum. I am currently using Version 3.9.7.  
-You can find out which python version you have installed (and IF it is installed) by opening a shell (terminal on Mac or Powershell/command prompt in Windows) and executing the following command: `python --version`. 
+You can find out which python version you have installed (and IF it is installed) by opening a shell (terminal on Mac or Powershell/command prompt in Windows) and executing the following command: `python3 --version`. 
 
 ### Git  
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )  
