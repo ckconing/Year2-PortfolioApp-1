@@ -5,7 +5,13 @@ In future sessions we will build out this application and deploy it to an actual
 
 This project is taken from this [RealPython tutorial](https://realpython.com/get-started-with-django-1/) by Jasmine Fisher.
 
+
 ## Git + Environment Setup
+### Python
+[Install Python 3](https://www.python.org/downloads/)   
+Make sure you have Python version 3.4 at a minimum. I am currently using Version 3.9.7.  
+You can find out which python version you have installed (and IF it is installed) by opening a shell (terminal on Mac or Powershell/command prompt in Windows) and executing the following command: `python --version`. 
+
 ### Git  
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf )  
 [Installing Git On You Machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  
