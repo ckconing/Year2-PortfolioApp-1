@@ -51,10 +51,14 @@ Check out the [First Contributions](https://github.com/firstcontributions/first-
 [Django Model Field References](https://docs.djangoproject.com/en/2.1/ref/models/fields/)  
 [Video Overview of Django Portfolio Project](https://realpython.com/courses/django-portfolio-project/)  
 
-Make sure you have python 3.x installed. You can verify the version by the following command: `python --version` and `python3 --version`. 
+Make sure you have python 3.4 or higher installed. You can verify the version with the following command: `python --version` or `python3 --version`.  
+If your `python --version` is already at 3.4+, then use `python` instead of `python3` in the following commands.  
+If you run into errors with the commands just take out `python3 -m` at the beginning and just use `pip install <package>`. 
+
 1. Install Django through Pip: `python3 -m pip install Django`. 
 2. Install postgress support through Pip: `python3 -m pip install psycopg2`
 You can use these pip commands to install other packages and dependencies as needed.  
+3. Install the Django database urls module. This will connect your application to a database url (postgres in our case). `python3 -m pip install dj_database_url` 
 
 ## Portfolio Web Application: Add the Projects application to your Django project
 Work through the tutorial [here](https://realpython.com/get-started-with-django-1/#showcase-your-projects), completing the **Showcase Your Projects** section.  
@@ -66,5 +70,7 @@ Note: All references to the previous 'Hello World' section have been removed fro
 [Deploying with Git](https://devcenter.heroku.com/articles/git) 
 [Heroku + Postgres](https://devcenter.heroku.com/articles/heroku-postgresql)  
 
-Coming soon in the next session we will explore using Heroku. You are encouraged to skip ahead and learn on your own!  
+Coming soon in the next session we will explore using Heroku. You are encouraged to skip ahead and learn on your own!   
+
+
 
