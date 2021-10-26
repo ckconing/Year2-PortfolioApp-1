@@ -62,7 +62,8 @@ You can use these pip commands to install other packages and dependencies as nee
 3. Install the Django database urls module. This will connect your application to a database url (postgres in our case). `python3 -m pip install dj_database_url` 
 
 ## Portfolio Web Application: Add the Projects application to your Django project
-Work through the tutorial [here](https://realpython.com/get-started-with-django-1/#showcase-your-projects), completing the **Showcase Your Projects** section.  
+Start the tutorial [here](https://realpython.com/get-started-with-django-1/#showcase-your-projects), completing the **Showcase Your Projects** section.  
+We have already done the first part of the tutorial with the code provided here but if you would like to start from the beginning later on your own, we highly encourage it!  
 Note: All references to the previous 'Hello World' section have been removed from our starter code. 
 
 ### Heroku  
