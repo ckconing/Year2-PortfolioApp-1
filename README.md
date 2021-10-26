@@ -44,6 +44,7 @@ Check out the [First Contributions](https://github.com/firstcontributions/first-
 
 1. Install Postgres if it is not already installed on your machine. Follow the link above.  
 2. Start up the default Postgres server and database (the default should be named just 'postgres')  
+3. If you add a User and Password to your default database after installing, then make sure to add those credentials in the DATABASES dict object in `settings.py`.  
 
 
 ### Django  
