@@ -66,6 +66,12 @@ Start the tutorial [here](https://realpython.com/get-started-with-django-1/#show
 We have already done the first part of the tutorial with the code provided here but if you would like to start from the beginning later on your own, we highly encourage it!  
 Note: All references to the previous 'Hello World' section have been removed from our starter code. 
 
+### Some useful Django commands:
+`python3 manage.py runserver` - This starts up the application locally.  
+`python3 manage.py makemigrations <app>` - This makes the migration when you create new models for the database schema.  
+`python3 manage.py migrate` - This will migrate all the changes to the database.  
+`python3 manage.py shell` - This will open a shell where you can connect the app to the database and save objects directly.  
+
 ### Heroku  
 [Getting Started With Python](https://devcenter.heroku.com/articles/getting-started-with-python)
 [Heroku Working With Django](https://devcenter.heroku.com/categories/working-with-django)   
